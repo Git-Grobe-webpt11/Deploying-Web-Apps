@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          deploying a web app
+      deploying a web app.
         </a>
       </header>
     </div>
